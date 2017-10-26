@@ -1,4 +1,4 @@
-C#: LINQ, Forms, Events, Files (Real Estate Analysis)
+# C#: LINQ, Forms, Events, Files (Real Estate Analysis)
 
 ### The Application
 The task is to write an application that analyzes real estate (housing) transactions.
@@ -18,6 +18,6 @@ the data (average price and count).
 events.
 
 ### Screenshots:
-![GUI](https://github.com/ikostan/Java_with_SWING/blob/master/src/screenshot.JPG?raw=true "GUI screenshot")
+![GUI](https://github.com/ikostan/Csharp_linq/blob/master/screens/Capture.PNG?raw=true "GUI screenshot")
 
-![GUI](https://github.com/ikostan/Java_with_SWING/blob/master/src/screenshot.JPG?raw=true "GUI screenshot")
+![GUI](https://github.com/ikostan/Csharp_linq/blob/master/screens/Capture2.PNG?raw=true "GUI screenshot")
