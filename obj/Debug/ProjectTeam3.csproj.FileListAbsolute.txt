@@ -1,0 +1,9 @@
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\bin\Debug\ProjectTeam3.exe.config
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\bin\Debug\ProjectTeam3.exe
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\bin\Debug\ProjectTeam3.pdb
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.csprojResolveAssemblyReference.cache
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.Form1.resources
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.Properties.Resources.resources
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.csproj.GenerateResource.Cache
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.exe
+C:\Users\superadmin\Source\Repos\Project Team 3\ProjectTeam3\obj\Debug\ProjectTeam3.pdb
