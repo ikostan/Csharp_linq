@@ -16,3 +16,8 @@ the data (average price and count).
 4. Must use the DataGridView, ListView and other controls.
 5. Filter controls (ListView, Checkbox, Button) must be properly initialized and respond properly to
 events.
+
+### Screenshots:
+![GUI](https://github.com/ikostan/Java_with_SWING/blob/master/src/screenshot.JPG?raw=true "GUI screenshot")
+
+![GUI](https://github.com/ikostan/Java_with_SWING/blob/master/src/screenshot.JPG?raw=true "GUI screenshot")
